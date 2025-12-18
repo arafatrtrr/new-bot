@@ -16,7 +16,5 @@ echo 4
 echo 2
 ) | python main.py
 
-REM Keep terminal open
-echo.
-echo Script finished. Press any key to exit...
-pause >nul
+REM Keep terminal open for further user input
+cmd
