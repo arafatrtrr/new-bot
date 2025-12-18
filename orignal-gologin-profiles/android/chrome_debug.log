@@ -1,0 +1,6 @@
+[1716:2724:1112/141208.681:WARNING:chrome\browser\signin\account_consistency_mode_manager.cc:74] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4288:14160:1112/141209.425:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 4
+[8248:6720:1112/141209.655:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 4
+[2412:13656:1112/141210.093:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[772:13340:1112/141211.288:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 4
+[11432:2124:1112/141230.325:INFO:third_party\webrtc\rtc_base\cpu_info.cc:75] Available number of cores: 4
